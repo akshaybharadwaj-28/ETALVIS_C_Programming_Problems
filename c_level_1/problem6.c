@@ -1,4 +1,4 @@
-//Question:- Get a number from the user and print the one's digit.
+//Question:- Get a two digit number from the user and print the one's digit.
 //Example:- Input:45 Output:5    Input:56 Output:6
 
 //Code
