@@ -9,8 +9,8 @@ int main() {
     int num;
     printf("Enter a number: ");
     scanf("%d",&num);
-    switch (num){
-        case 50 : printf("Result is 1");
+    switch (num==50){
+        case 1 : printf("Result is 1");
                   break;
         default : printf("Result is 0");
     }
