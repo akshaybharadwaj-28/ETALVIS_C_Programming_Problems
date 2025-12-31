@@ -1,5 +1,5 @@
 //Question:- Get a number from the user and check if the number is not equal to 50. If yes, then print 1 otherwise print 0.
-//Example:- Input:50 Output:1    Input:56789 Output:0
+//Example:- Input:50 Output:0    Input:56789 Output:1
 
 //Code
 
