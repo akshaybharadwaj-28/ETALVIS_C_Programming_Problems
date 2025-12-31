@@ -1,5 +1,5 @@
 //Question:- Get a four digit number from the user and check if the digit 1 and digit 0 are the same and if digit 1 and digit 0 are different. If yes, then print "Success"; otherwise print "Failure".
-//Example:- Input:988 Output:1    Input:567 Output:0
+//Example:- Input:988 Output:Success    Input:567 Output:Failure
 
 //Code
 
