@@ -1,9 +1,9 @@
 //Question: Write a program to print odd number between 1 and 9. Use only "if/else" and "goto" statements. Don't use "for" or "while" loops.
 /* Answer:  1
-            2
             3
-            4
             5
+            7
+            9
 */
 
 //Code
