@@ -7,7 +7,7 @@
 
 int main() { 
     int num1,num2,lcm,i;
-    printf("Enter a number: ");
+    printf("Enter 2 numbers: ");
     scanf("%d %d", &num1, &num2);
     i=num1;
     while(i>=num1){
