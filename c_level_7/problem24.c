@@ -24,3 +24,5 @@ int disp_two_digit_square(int num){
         }
         num=num/10;
     }
+printf("%d",count);
+}
