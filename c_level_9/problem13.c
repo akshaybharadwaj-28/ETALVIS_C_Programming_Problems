@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 int main(){
-    int i,j,num,a[20],count=0;
+    int i,num,a[20],count=0;
     printf("Enter multiple numbers: ");
     for(i=0;i<20;i++){
         scanf("%d",&a[i]);
